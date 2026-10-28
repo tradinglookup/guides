@@ -1,0 +1,7 @@
+site_name: TradingLookup guides
+site_url: https://tradinglookup.readthedocs.io/
+site_description: Short guides to prop firm rules, written from each firm's own pages.
+theme:
+  name: readthedocs
+nav:
+  - Consistency rules: index.md
